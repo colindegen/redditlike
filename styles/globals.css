@@ -1,0 +1,50 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background-color: #EEF0F2;
+}
+
+
+div html body{
+  margin: 0 0 0 0;
+}
+
+h3,h4,h5,h6,p {
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+}
+
+li {
+  list-style: none;
+}
+
+h1,h2,ol {
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+  font-family: 'Nunito', sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.userName {
+
+}
+
+.buttonText {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=|quicksand');

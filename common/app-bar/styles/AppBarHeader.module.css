@@ -1,0 +1,5 @@
+.appBarHeader {
+  align-self: center;
+  width: 100vw;
+  flex-grow: 1;
+}

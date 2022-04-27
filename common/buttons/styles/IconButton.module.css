@@ -1,0 +1,37 @@
+.iconButton {
+  position: relative;
+  overflow: hidden;
+  color: black;
+  padding: 0.7rem 1.7rem;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1rem;
+  outline: 0;
+  border: 0;
+  cursor: pointer;
+}
+
+.filled {
+	transition: background 400ms;
+	background-color: #DE5330;
+	border-radius: 0.25rem;
+	box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.3);
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.icon {
+	margin-right: 0.5em;
+}
+
+.text {
+	display: inline-block;
+	color: black;
+}
+
+.outlined {
+  border: 2px solid red;
+}

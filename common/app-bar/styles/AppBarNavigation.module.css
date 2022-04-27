@@ -1,0 +1,21 @@
+.appBarNavigation {
+  width: 100vw;
+  flex-grow: 1;
+  display: flex;
+  height: 8vh;
+  align-self: center;
+  justify-content: center;
+}
+
+.appBarNavigationButton {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-bottom: 3px solid white;
+  margin-left: 1em;
+  cursor: pointer;
+}
+
+.appBarNavigationButton:hover {
+    border-bottom: 3px solid orange;
+}

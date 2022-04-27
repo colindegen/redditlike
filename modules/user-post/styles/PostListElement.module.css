@@ -1,0 +1,32 @@
+.postListElement {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+  padding: 1em 1em 1em 1em;
+  background-color: white;
+  margin-bottom: 0.15em;
+  border-radius: 3px;
+  border: 1px solid white;
+}
+
+.postListElement:hover {
+  border: 1px solid #E82B2B;
+}
+
+.postListElement > div {
+  margin-right: 1em;
+  padding: 0.3em 0.3em 0.3em 0.3em;
+}
+
+.title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 1.3em;
+}
+
+.info {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  margin-bottom: 0.5em;
+}

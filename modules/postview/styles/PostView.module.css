@@ -1,0 +1,31 @@
+.content {
+	border-width: 3px;
+}
+
+.container {
+  padding: 1em 16em 1em 16em;
+}
+
+
+.postContainer {
+	background-color: white;
+	padding: 1em 1em 1em 1em;
+	border: 1px solid lightgray;
+}
+
+.titleContainer {
+	display: flex;
+	align-items: center;
+	grid-gap: 1em;
+	margin-bottom: 1em;
+}
+
+.title {
+	margin-bottom: 1em;
+	align-self: center;
+	position: relative;
+	top: 0.5em;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 1.3em;
+}
