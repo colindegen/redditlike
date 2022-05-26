@@ -9,9 +9,9 @@ export default function AppBarUserDetails() {
           <Image  src="/user_profile_icon.svg" width="40px" height="40px" ></Image>
         </div>
         <div className={styles.text}>
-          <p className={styles.userName}>
+          <h3>
             testuser
-          </p>
+          </h3>
         </div>
       </div>
     </div>

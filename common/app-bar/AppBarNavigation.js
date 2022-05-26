@@ -5,22 +5,22 @@ export default function AppBarNavigation() {
     <nav className={styles.appBarNavigation}>
       <div className={styles.appBarNavigationButton}>
         <div>
-          <h4 className="buttonText">HOME</h4>
+          <h3>HOME</h3>
         </div>
       </div>
       <div className={styles.appBarNavigationButton}>
         <div>
-          <h4 className="buttonText">POPULAR</h4>
+          <h3>POPULAR</h3>
         </div>
       </div>
       <div className={styles.appBarNavigationButton}>
         <div>
-          <h4 className="buttonText">ALL</h4>
+          <h3>ALL</h3>
         </div>
       </div>
       <div className={styles.appBarNavigationButton}>
         <div>
-          <h4 className="buttonText">RANDOM</h4>
+          <h3>RANDOM</h3>
         </div>
       </div>
     </nav>

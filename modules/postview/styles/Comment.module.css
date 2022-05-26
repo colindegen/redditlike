@@ -23,3 +23,9 @@
 .topContainer {
 	display: flex;
 }
+
+.bottomToolbar {
+	display:flex;
+	grid-gap: 1em;
+	justify-content:space-between;
+}

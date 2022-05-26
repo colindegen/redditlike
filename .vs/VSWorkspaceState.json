@@ -2,14 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\common",
-    "\\common\\buttons",
+    "\\common\\app-bar",
+    "\\common\\app-bar\\styles",
     "\\common\\buttons\\styles",
     "\\modules",
-    "\\modules\\app-bar",
-    "\\modules\\app-bar\\styles",
     "\\modules\\front-page",
-    "\\modules\\user-post"
+    "\\modules\\front-page\\styles",
+    "\\modules\\postview\\styles",
+    "\\styles"
   ],
-  "SelectedNode": "\\modules\\app-bar\\styles\\AppBar.module.css",
+  "SelectedNode": "\\common\\app-bar\\styles\\AppBarNavigation.module.css",
   "PreviewInSolutionExplorer": false
 }

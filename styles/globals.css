@@ -12,22 +12,21 @@ div html body{
   margin: 0 0 0 0;
 }
 
-h3,h4,h5,h6,p {
+h1,h2,h3,h4,h5,h6 {
   padding: 0 0 0 0;
   margin: 0 0 0 0;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 700;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
 }
 
 li {
   list-style: none;
 }
 
-h1,h2,ol {
-  padding: 0 0 0 0;
-  margin: 0 0 0 0;
-  font-family: 'Nunito', sans-serif;
-}
 
 a {
   color: inherit;
@@ -38,13 +37,6 @@ a {
   box-sizing: border-box;
 }
 
-.userName {
-
-}
-
-.buttonText {
-  font-family: 'Roboto', sans-serif;
-}
 
 
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=|quicksand');

@@ -1,0 +1,40 @@
+.textArea {
+	min-width: 50%;
+	min-height: 10em;
+	border-bottom: unset;
+	margin: 0 0 0 0;
+	resize: none;
+	font-size: 16px;
+	padding: 1em 1em 1em 1em;
+	display: block;
+	border-radius: 8px 8px 0px 0px;
+	border-color: lightgray;
+}
+
+.textArea:focus {
+	border-radius: 8px 8px 0px 0px;
+	overflow: hidden;
+	outline: none;
+	border-color: lightgray;
+	border: 1px solid lightgray;
+	border-bottom: unset;
+}
+
+.container {
+	margin: 0.5em 0em 0.5em 0em;
+}
+
+.toolbar {
+	min-width: 50%;
+	max-width: 50%;
+	background-color: white;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+	border-right: 1px solid black;
+	border-radius: 0px 0px 8px 8px;
+	border-color: lightgray;
+	background-color: lightgray;
+	display: flex;
+	flex-direction: row-reverse;
+	padding: 1em 1em 1em 1em;
+}

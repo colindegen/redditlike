@@ -1,11 +1,11 @@
-.iconButton {
-  position: relative;
-  overflow: hidden;
-  color: black;
-  padding: 0.7rem 1.7rem;
-  outline: 0;
-  border: 0;
-  cursor: pointer;
+.button {
+	position: relative;
+	overflow: hidden;
+	color: black;
+	padding: 0.7rem 1.7rem;
+	outline: 0;
+	border: 0;
+	cursor: pointer;
 }
 
 .filled {
@@ -21,15 +21,11 @@
 	align-items: center;
 }
 
-.icon {
-	margin-right: 0.5em;
-}
-
 .text {
 	display: inline-block;
 	color: black;
 }
 
 .outlined {
-  border: 2px solid red;
+	border: 2px solid red;
 }
